@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "title": "The Art of Writing Blogs",
+    "short_description": "Learn the essentials of crafting engaging and informative blog posts.",
+    "reading_time": "10 minutes",
+    "author": {
+      "name": "John Doe",
+      "author_image": "john_doe.jpg"
+    },
+    "blog_image": "https://i.ibb.co/LvWm6V6/blog-1.jpg",
+    "hashtags": ["writing", "blogging", "contentcreation"],
+    "posted_date": "2023-09-14"
+  },
+  {
+    "id": 2,
+    "title": "Effective SEO Strategies for Blogs",
+    "short_description": "Boost your blog's visibility with these proven SEO techniques.",
+    "reading_time": "8 minutes",
+    "author": {
+      "name": "Jane Smith",
+      "author_image": "jane_smith.jpg"
+    },
+    "blog_image": "https://i.ibb.co/chGQFkH/blog-2.jpg",
+    "hashtags": ["SEO", "bloggingtips", "digitalmarketing"],
+    "posted_date": "2023-09-12"
+  },
+  {
+    "id": 3,
+    "title": "The Power of Storytelling in Blogging",
+    "short_description": "Discover how storytelling can captivate your readers and enhance your blogs.",
+    "reading_time": "12 minutes",
+    "author": {
+      "name": "David Wilson",
+      "author_image": "david_wilson.jpg"
+    },
+    "blog_image": "https://i.ibb.co/NTrf2Vr/blog-3.jpg",
+    "hashtags": ["storytelling", "bloggingstrategy", "contentmarketing"],
+    "posted_date": "2023-09-10"
+  },
+  {
+    "id": 4,
+    "title": "Tips for Monetizing Your Blog",
+    "short_description": "Explore various strategies to turn your blog into a source of income.",
+    "reading_time": "9 minutes",
+    "author": {
+      "name": "Emily Brown",
+      "author_image": "emily_brown.jpg"
+    },
+    "blog_image": "https://i.ibb.co/s6gLvFD/blog-4.jpg",
+    "hashtags": ["monetization", "bloggingincome", "onlinebusiness"],
+    "posted_date": "2023-09-08"
+  },
+  {
+    "id": 5,
+    "title": "The Future of Blogging: Trends to Watch",
+    "short_description": "Stay ahead in the blogging game by keeping an eye on these emerging trends.",
+    "reading_time": "11 minutes",
+    "author": {
+      "name": "Michael Johnson",
+      "author_image": "michael_johnson.jpg"
+    },
+    "blog_image": "https://i.ibb.co/ZMwJ7zn/blog-5.jpg",
+    "hashtags": ["bloggingtrends", "futureofblogging", "digitalcontent"],
+    "posted_date": "2023-09-06"
+  }
+]
